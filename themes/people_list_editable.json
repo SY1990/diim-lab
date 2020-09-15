@@ -1,0 +1,75 @@
+{
+	"groups": [
+
+		{
+			"group_name": "Principle Investigator",
+			"members": [
+
+			]
+		},
+		{
+			"group_name": "Doctorate Students",
+			"members": [
+					{
+					"name": "TBD",
+					"type": "2020.09-, ",
+					"description": "<lessStrong>Topic</lessStrong>: TBD <br> <li> M.S.  </li> <li> B.S. <br>",
+					"email": "",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
+			"group_name": "Master Students",
+			"members": [
+				{
+					"name": "Mrunal Sangramsinh Marne ",
+					"type": "MEng, 2020/09 - , co-advised by Prof.Tasnim",
+					"description": "<lessStrong>Topic</lessStrong>: automated asparagus harvester <br> <li> B.S. <br>",
+					"email": "mmarne@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Manan Desai",
+					"type": "MEng, 2020/09 -, co-advised by Prof.Tasnim",
+					"description": "<lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. <br>",
+					"email": "mdesai01@uoguelph.ca",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
+			"group_name": "Undergraduate Students",
+			"members": [
+				{
+					"name": "TBD",
+					"type": "2020/09 -, Mechanical Eng.",
+					"description": "<lessStrong>Topic</lessStrong>: TBD <br>",
+					"email": "",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
+			"group_name": "Alumni",
+			"members": [
+				{
+					"name": "TBD",
+					"type": "",
+					"description": "",
+					"email": "",
+					"linkedin": ""
+				}
+
+
+
+
+			]
+		}
+
+	]
+
+}
