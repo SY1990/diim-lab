@@ -24,19 +24,13 @@
 			"group_name": "Master Students",
 			"members": [
 				{
-					"name": "Mrunal Sangramsinh Marne",
-					"type": "MEng, Systems & Computing, 2020/09 - ,<br> co-advised by Prof.Tasnim",
-					"description": "<lessStrong>Topic</lessStrong>: automated asparagus harvester <br> <li> B.S. Sardar Vallabhai Patel Institute of Technology<br>",
-					"email": "mmarne@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Manan Desai",
-					"type": "MEng Systems & Computing, 2020/09 -, <br>co-advised by Prof.Tasnim",
-					"description": "<lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. Charusat University<br>",
-					"email": "mdesai01@uoguelph.ca",
+					"name": "TBD",
+					"type": "",
+					"description": "",
+					"email": "",
 					"linkedin": ""
 				}
+
 
 			]
 		},
@@ -56,17 +50,21 @@
 		{
 			"group_name": "Alumni",
 			"members": [
+
 				{
-					"name": "TBD",
-					"type": "",
-					"description": "",
-					"email": "",
+					"name": "Mrunal Sangramsinh Marne",
+					"type": "MEng, Systems & Computing, 2020/09 -2020/12 ,<br> co-advised by Prof.Tasnim",
+					"description": "<lessStrong>Topic</lessStrong>: automated asparagus harvester <br> <li> B.S. Sardar Vallabhai Patel Institute of Technology<br>",
+					"email": "mmarne@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Manan Desai",
+					"type": "MEng Systems & Computing, 2020/09 - 2020/12, <br>co-advised by Prof.Tasnim",
+					"description": "<lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. Charusat University<br>",
+					"email": "mdesai01@uoguelph.ca",
 					"linkedin": ""
 				}
-
-
-
-
 			]
 		}
 
