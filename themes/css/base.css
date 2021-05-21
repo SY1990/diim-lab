@@ -1076,24 +1076,24 @@ lessStrong {
 
 
 
-#content .sponsor-interface {
-    padding: 10px;
-	text-align:justify;
-	line-height:1.5;
-}
-#content .sponsor-pictures {
+#content #sponsors .sponsor-list {
 	display: flex;
-}
-#content .sponsor-pictures-list {
-	flex: 33.3%;
-	Margin: 30px;
-	content-align: center;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
-#content .sponsor-pictures img {
-	min-width: 333px;
-	max-height: 140px;
-	object-fit: cover;
+#content #sponsors .sponsor {
+	max-width: 500px;
+	margin: 10px;
+	flex: 1;
+	padding: 10px;
+}
+
+#content #sponsors .sponsor img {
+	width: 100%;
+	min-width: 300px;
+	max-height: 200px;
+	object-fit: contain;
 
 }
 
