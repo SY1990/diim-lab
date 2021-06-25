@@ -7,18 +7,7 @@
 
 			]
 		},
-		{
-			"group_name": "Research Associate",
-			"members": [
-				{
-					"name": "TBD",
-					"type": "",
-					"description": "",
-					"email": "",
-					"linkedin": ""
-				}
-			]
-		},
+
 		{
 			"group_name": "Doctorate Students",
 			"members": [
@@ -56,11 +45,20 @@
 			"members": [
 				{
 					"name": "Taha Memon",
-					"type": "2021/05 -, Software Eng.",
+					"type": "2021/05 -, Software Engineering",
 					"description": "<lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
 					"email": "tmemon@uoguelph.ca",
 					"linkedin": ""
+				},
+				{
+
+					"name": "Jonathan Millman",
+					"type": "2021/05 -, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Novel Optimized Cores for Multi-Blast Sandwich Shields <li> B.S. University of Guelph<br>",
+					"email": "jmillman@uoguelph.ca",
+					"linkedin": ""
 				}
+
 
 			]
 		},
