@@ -8,16 +8,15 @@
 			]
 		},
 		{
-			"group_name": "Research Associate",
+			"group_name": "Research Assistant",
 			"members": [
-				{
-
-					"name": "Jonathan Millman",
-					"type": "2021/05 -, Mechanical Engineering, co-advised by Dr. Simha",
-					"description": "<lessStrong>Topic</lessStrong>: Novel Optimized Cores for Multi-Blast Sandwich Shields <li> B.S. University of Guelph<br>",
-					"email": "jmillman@uoguelph.ca",
-					"linkedin": ""
-				}
+			    {
+					"name": "Mrunal Sangramsinh Marne",
+					"type": "2021/08 - ",
+					"description": "<lessstrong>Topic</lessstrong>:cloud-based digital twin platform development <li> B.S. Sardar Vallabhai Patel Institute of Technology<br> </li> <li> M.Eng. University of Guelph <br> </li>",
+					"email": "mmarne@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/mrunalmarne/"
+			    }
 			]
 		},
 
@@ -30,6 +29,13 @@
 					"description": "<lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
 					"email": "anaser@uoguelph.ca",
 					"linkedin": ""
+				},
+				{
+					"name": "Vahid Haseltalab",
+					"type": "PhD, Mechanical Engineering, 2021.09- <br>",
+					"description": "<lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
+					"email": "vhaselta@uoguelph.ca",
+					"linkedin": ""
 				}
 
 			]
@@ -38,9 +44,23 @@
 			"group_name": "Master Students",
 			"members": [
 				{
+					"name": "Patrick Haynes",
+					"type": "MEng, Mechanical Engineering, 2021/09 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
+					"email": "phaynes@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Purvatya Vishwash Patel",
+					"type": "MEng, Mechanical Engineering, 2021/07 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S.  <br>",
+					"email": "purvatya@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Pinkesh Patel",
 					"type": "MEng, Mechanical Engineering, 2021/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Soft grippers <br> <li> B.S. Sardar Patel University <br>",
+					"description": "<lessStrong>Topic</lessStrong>: AM impacts on supply chain <br> <li> B.S. Sardar Patel University <br>",
 					"email": "pinkesh@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/pinkesh-patel88/"
 				},
@@ -56,22 +76,26 @@
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
-				{
-					"name": "Taha Memon",
-					"type": "2021/05 -, Software Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
-					"email": "tmemon@uoguelph.ca",
-					"linkedin": ""
-				}
-
-
 
 			]
 		},
 		{
-			"group_name": "Alumni",
+			"group_name": "Alumni - RA",
 			"members": [
+				{
 
+					"name": "Jonathan Millman",
+					"type": "Research Assistant, 2021/05 -2021/08, co-advised by Dr. Simha",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br> <lessStrong>Topic</lessStrong>: Novel Optimized Cores for Multi-Blast Sandwich Shields <li> B.S. University of Guelph<br>",
+					"email": "jmillman@uoguelph.ca",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
+			"group_name": "Alumni - Master's",
+			"members": [
 				{
 					"name": "Mrunal Sangramsinh Marne",
 					"type": "MEng, Systems & Computing, 2020/09 -2020/12 ,<br> co-advised by Prof.Tasnim",
@@ -81,13 +105,26 @@
 				},
 				{
 					"name": "Manan Desai",
-					"type": "MEng Systems & Computing, 2020/09 - 2020/12, <br>co-advised by Prof.Tasnim",
+					"type": "MEng, Systems & Computing, 2020/09 - 2020/12, <br>co-advised by Prof.Tasnim",
 					"description": "<lessstrong>Current Position</lessstrong>:Technical Support Representative at KellyConnect <br><br> <lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. Charusat University<br>",
 					"email": "mdesai01@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/manandesai98/"
 				}
 			]
+		},
+		{
+			"group_name": "Alumni - Undergrad",
+			"members": [
+				{
+					"name": "Taha Memon",
+					"type": "URA, 2021/05 -2021/08, Computer Science",
+					"description": "<lessstrong>Current Position</lessstrong>:Undergraduate student at UoG <br><br> <lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
+					"email": "tmemon@uoguelph.ca",
+					"linkedin": ""
+				}
+			]
 		}
+
 
 	]
 
