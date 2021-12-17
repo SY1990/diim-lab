@@ -23,7 +23,7 @@
 		{
 			"group_name": "Doctorate Students",
 			"members": [
-					{
+				{
 					"name": "Ahmad Naser",
 					"type": "PhD, Mechanical Engineering, 2021.06- <br>",
 					"description": "<lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
@@ -56,21 +56,9 @@
 					"description": "<lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
 					"email": "phaynes@uoguelph.ca",
 					"linkedin": ""
-				},
-				{
-					"name": "Purvatya Vishwash Patel",
-					"type": "MEng, Mechanical Engineering, 2021/07 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
-					"email": "purvatya@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Pinkesh Patel",
-					"type": "MEng, Mechanical Engineering, 2021/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: AM impacts on supply chain <br> <li> B.S. Sardar Patel University <br>",
-					"email": "pinkesh@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/pinkesh-patel88/"
 				}
+
+
 			]
 		},
 		{
@@ -96,6 +84,20 @@
 		{
 			"group_name": "Alumni - Master's",
 			"members": [
+				{
+					"name": "Purvatya Vishwash Patel",
+					"type": "MEng, Mechanical Engineering, 2021/07 -2021.12 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
+					"email": "purvatya@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Pinkesh Patel",
+					"type": "MEng, Mechanical Engineering, 2021/01 -2021.12 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: AM impacts on supply chain <br> <li> B.S. Sardar Patel University <br>",
+					"email": "pinkesh@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/pinkesh-patel88/"
+				},
 				{
 					"name": "Mrunal Sangramsinh Marne",
 					"type": "MEng, Systems & Computing, 2020/09 -2020/12 ,<br> co-advised by Prof.Tasnim",
