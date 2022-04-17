@@ -45,17 +45,31 @@
 			"members": [
 				{
 					"name": "Carter Powell",
-					"type": "MSc, Mechanical Engineering, 2022/01 - <br> ",
+					"type": "Mechanical Engineering, 2022/01 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Design for Mass Customization <br> <li> B.S. University of Guelph <br>",
 					"email": "cpowel02@uoguelph.ca",
 					"linkedin": ""
 				},
 				{
 					"name": "Patrick Haynes",
-					"type": "MEng, Mechanical Engineering, 2021/09 - <br> ",
+					"type": "Mechanical Engineering, 2021/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
 					"email": "phaynes@uoguelph.ca",
 					"linkedin": ""
+				},
+				{
+					"name": "Md Tahmid Bin Touhid",
+					"type": "Engineering Systems and Computing, 2022/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> B.S. University of Malaya <br>",
+					"email": "mtouhid@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Sayed Amirhossein Mirahmadi",
+					"type": "Computer Engineering, 2022/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Interactive digital twin with virtual reality <br> <li> B.S. University of Shahrekord<br>",
+					"email": "smirahma@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/amirhossein-mirahmadi-83515a188"
 				}
 
 
@@ -87,28 +101,28 @@
 				{
 					"name": "Purvatya Vishwash Patel",
 					"type": "MEng, Mechanical Engineering, 2021/07 -2021.12 <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Drafting Engineer at MOBIA Technology Innovations <br><br> <lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
 					"email": "purvatya@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/purvatya/"
 				},
 				{
 					"name": "Pinkesh Patel",
 					"type": "MEng, Mechanical Engineering, 2021/01 -2021.12 <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: AM impacts on supply chain <br> <li> B.S. Sardar Patel University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br> <lessStrong>Topic</lessStrong>: AM impacts on supply chain <br> <li> B.S. Sardar Patel University <br>",
 					"email": "pinkesh@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/pinkesh-patel88/"
 				},
 				{
 					"name": "Mrunal Sangramsinh Marne",
 					"type": "MEng, Systems & Computing, 2020/09 -2020/12 ,<br> co-advised by Prof.Tasnim",
-					"description": "<lessstrong>Current Position</lessstrong>:Intern at Aléo Canada <br><br><lessStrong>Topic</lessStrong>: automated asparagus harvester <br> <li> B.S. Sardar Vallabhai Patel Institute of Technology<br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Software test engineer at Tata Consultancy Services <br><br><lessStrong>Topic</lessStrong>: automated asparagus harvester <br> <li> B.S. Sardar Vallabhai Patel Institute of Technology<br>",
 					"email": "mmarne@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/mrunalmarne/"
 				},
 				{
 					"name": "Manan Desai",
 					"type": "MEng, Systems & Computing, 2020/09 - 2020/12, <br>co-advised by Prof.Tasnim",
-					"description": "<lessstrong>Current Position</lessstrong>:Technical Support Representative at KellyConnect <br><br> <lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. Charusat University<br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Software test engineer at Tata Consultancy Services <br><br> <lessStrong>Topic</lessStrong>: automated cucumber harvester <br>  <li> B.S. Charusat University<br>",
 					"email": "mdesai01@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/manandesai98/"
 				}

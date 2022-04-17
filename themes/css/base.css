@@ -1083,7 +1083,7 @@ lessStrong {
 }
 
 #content #sponsors .sponsor {
-	max-width: 500px;
+	max-width: 500px;spon
 	margin: 10px;
 	flex: 1;
 	padding: 10px;
@@ -1096,6 +1096,28 @@ lessStrong {
 	object-fit: contain;
 
 }
+
+#content #facility .facility-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+}
+
+#content #facility.facility-list {
+	max-width: 500px;
+	margin: 10px;
+	flex: 1;
+	padding: 10px;
+}
+
+#content #facility.facility-list img {
+	width: 100%;
+	min-width: 300px;
+	max-height: 200px;
+	object-fit: contain;
+
+}
+
 
 #content #positions .opportunity-wrapper {
 	border-radius: 20px;
