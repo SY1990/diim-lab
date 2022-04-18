@@ -1103,7 +1103,7 @@ lessStrong {
 	justify-content: left;
 }
 
-#content #facility.facility-list {
+#content #facility.facility {
 	max-width: 500px;
 	margin: 10px;
 	flex: 1;
