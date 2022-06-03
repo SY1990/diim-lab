@@ -70,14 +70,40 @@
 					"description": "<lessStrong>Topic</lessStrong>: Interactive digital twin with virtual reality <br> <li> B.S. University of Shahrekord<br>",
 					"email": "smirahma@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/amirhossein-mirahmadi-83515a188"
+				},
+				{
+					"name": "Akash Shashikant Tiwari",
+					"type": "Mechanical Engineering, 2022/05 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Recycling of 3D-printed carbon fiber reinforced composites <br> <li> B.S. SVKM’s NMIMS University <br>",
+					"email": "tiwaria@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Jimit Vyas",
+					"type": "Mechanical Engineering, 2022/05 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Geometric variance evaluation of 3D printed composites <br> <li> B.S. Gujarat Technological University <br>",
+					"email": "vyasj@uoguelph.ca",
+					"linkedin": ""
 				}
-
-
 			]
 		},
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
+				{
+					"name": "Japhet Geonel Kijoe",
+					"type": "Mitacs Globalink Intern, 2022/05 -2021/08, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Design automation for mass customized wearables <li> B.S. Vellore Institute of Technology <br>",
+					"email": "jkijoe@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Theodore Oskroba",
+					"type": "USRA, 2021/10 -, Computer Science",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin development for robot-assisted manufacturing <li> B.S. University of Guelph <br>",
+					"email": "toskroba@uoguelph.ca",
+					"linkedin": "linkedin.com/in/theo-oskroba-508873161"
+				}
 
 			]
 		},
