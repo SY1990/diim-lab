@@ -101,14 +101,14 @@
 			"members": [
 				{
 					"name": "Yasser Hariri",
-					"type": "2023/01 -2023/04, Biomedical Engineering",
+					"type": "2023/01 -, Biomedical Engineering",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
 					"email": "jkijoe@uoguelph.ca",
 					"linkedin": ""
 				},
 			    {
 					"name": "Taha Memon",
-					"type": "2023/01 -2023/04, Computer Science",
+					"type": "2023/01 -, Computer Science",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin and VR <li> B.S. University of Guelph<br>",
 					"email": "tmemon@uoguelph.ca",
 					"linkedin": ""
@@ -142,7 +142,7 @@
 				{
 					"name": "Akash Shashikant Tiwari",
 					"type": "Mechanical Engineering, 2022/05 -2022/12 <br> ",
-					"description": "lessstrong>Current Position</lessstrong>:Quality Engineer at Linamar <lessStrong>Topic</lessStrong>: Energy consumption modeling of CFRP 3D printed parts <br> <li> B.S. SVKM’s NMIMS University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Quality Control Engineer at Linamar <br><br><lessStrong>Topic</lessStrong>: Energy consumption modeling of CFRP 3D printed parts <br> <li> B.S. SVKM’s NMIMS University <br>",
 					"email": "tiwaria@uoguelph.ca",
 					"linkedin": ""
 				},
@@ -180,11 +180,11 @@
 			"group_name": "Alumni - Undergrad",
 			"members": [
 				{
-					"name": "Taha Memon",
-					"type": "URA, 2021/05 -2021/08, Computer Science",
-					"description": "<lessstrong>Current Position</lessstrong>:Undergraduate student at UoG <br><br> <lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
-					"email": "tmemon@uoguelph.ca",
-					"linkedin": ""
+					"name": "Theodore Oskroba",
+					"type": "USRA, 2021/10 -2022/12, Computer Science",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br><lessStrong>Topic</lessStrong>: Digital twin development for robot-assisted manufacturing <li> B.S. University of Guelph <br>",
+					"email": "toskroba@uoguelph.ca",
+					"linkedin": "linkedin.com/in/theo-oskroba-508873161"
 				},
 				{
 					"name": "Japhet Geonel Kijoe",
@@ -194,12 +194,14 @@
 					"linkedin": ""
 				},
 				{
-					"name": "Theodore Oskroba",
-					"type": "USRA, 2021/10 -2022/12, Computer Science",
-					"description": "<lessstrong>Current Position</lessstrong>: <br><br><lessStrong>Topic</lessStrong>: Digital twin development for robot-assisted manufacturing <li> B.S. University of Guelph <br>",
-					"email": "toskroba@uoguelph.ca",
-					"linkedin": "linkedin.com/in/theo-oskroba-508873161"
+					"name": "Taha Memon",
+					"type": "URA, 2021/05 -2021/08, Computer Science",
+					"description": "<lessstrong>Current Position</lessstrong>:Undergraduate student at UoG <br><br> <lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
+					"email": "tmemon@uoguelph.ca",
+					"linkedin": ""
 				}
+
+
 			]
 		}
 
