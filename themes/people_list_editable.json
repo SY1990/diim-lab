@@ -100,11 +100,18 @@
 			"group_name": "Undergraduate Students",
 			"members": [
 				{
+					"name": "Kritika Khanna",
+					"type": "2023/01 -, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
+					"email": "kkhann01@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Yasser Hariri",
 					"type": "2023/01 -, Biomedical Engineering",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
 					"email": "jkijoe@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "yasserammarhariri@gmail.com"
 				},
 			    {
 					"name": "Taha Memon",
