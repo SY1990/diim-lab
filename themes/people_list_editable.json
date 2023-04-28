@@ -58,35 +58,7 @@
 					"email": "mtouhid@uoguelph.ca",
 					"linkedin": ""
 				},
-				{
-					"name": "Sayed Amirhossein Mirahmadi",
-					"type": "Computer Engineering, 2022/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Interactive digital twin with virtual reality <br> <li> B.S. University of Shahrekord<br>",
-					"email": "smirahma@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/amirhossein-mirahmadi-83515a188"
-				},
 
-				{
-					"name": "Jimit Vyas",
-					"type": "Mechanical Engineering, 2022/05 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Geometric variance evaluation of 3D printed composites <br> <li> B.S. Gujarat Technological University <br>",
-					"email": "vyasj@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Nilmadhav Godhani",
-					"type": "Mechanical Engineering, 2022/07 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: DT for AM applications <br> <li> B.S. Gujarat Technological University <br>",
-					"email": "ngodhani@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Puravkumar Patel",
-					"type": "Mechanical Engineering, 2022/07 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: DT for AM applications <br> <li> B.S. A D Patel Institute of Technology <br>",
-					"email": "puravkum@uoguelph.ca",
-					"linkedin": ""
-				},
 				{
 					"name": "Enshen Zhu",
 					"type": "Engineering Systems and Computing, 2022/07 - <br> ",
@@ -160,6 +132,35 @@
 		{
 			"group_name": "Alumni - Master's",
 			"members": [
+				{
+					"name": "Sayed Amirhossein Mirahmadi",
+					"type": "Computer Engineering, 2022/01 -2023/04 <br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: Software design engineer at AGDATA<br><br><lessStrong>Topic</lessStrong>: Interactive digital twin with virtual reality <br> <li> B.S. University of Shahrekord<br>",
+					"email": "smirahma@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/amirhm97/"
+				},
+
+				{
+					"name": "Jimit Vyas",
+					"type": "Mechanical Engineering, 2022/05 - 2023/04<br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br><lessStrong>Topic</lessStrong>: Geometric variance evaluation of 3D printed composites <br> <li> B.S. Gujarat Technological University <br>",
+					"email": "vyasj@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Nilmadhav Godhani",
+					"type": "Mechanical Engineering, 2022/07 - 2023/04<br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br><lessStrong>Topic</lessStrong>: DT for AM applications <br> <li> B.S. Gujarat Technological University <br>",
+					"email": "ngodhani@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Puravkumar Patel",
+					"type": "Mechanical Engineering, 2022/07 - 2023/04<br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br><lessStrong>Topic</lessStrong>: DT for AM applications <br> <li> B.S. A D Patel Institute of Technology <br>",
+					"email": "puravkum@uoguelph.ca",
+					"linkedin": ""
+				},
 				{
 					"name": "Akash Shashikant Tiwari",
 					"type": "Mechanical Engineering, 2022/05 -2022/12 <br> ",
