@@ -72,6 +72,13 @@
 					"description": "<lessStrong>Topic</lessStrong>: Data-driven design for mass customization <br> <li> M.S. Georgia Institute of Technology  </li> <li> M.S. McGill University <br> </li> <li> B.A. Shandong Normal University  </li>",
 					"email": "",
 					"linkedin": ""
+				},
+				{
+					"name": "Vipul Patel",
+					"type": "Mechanical Engineering, 2023/04 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: DT for AM quality prediction <br> <li> B.S. G.H. Patel College of Engineering and Technology <br>",
+					"email": "vipul@uoguelph.ca",
+					"linkedin": ""
 				}
 			]
 		},
@@ -91,21 +98,8 @@
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
 					"email": "",
 					"linkedin": ""
-				},
-				{
-					"name": "Yasser Hariri",
-					"type": "URA, 2023/01 -, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
-					"email": "jkijoe@uoguelph.ca",
-					"linkedin": "yasserammarhariri@gmail.com"
-				},
-			    {
-					"name": "Taha Memon",
-					"type": "URA, 2023/01 -, Computer Science",
-					"description": "<lessStrong>Topic</lessStrong>: Digital twin and VR <li> B.S. University of Guelph<br>",
-					"email": "tmemon@uoguelph.ca",
-					"linkedin": ""
 				}
+
 			]
 		},
 		{
@@ -202,6 +196,13 @@
 			"group_name": "Alumni - Undergrad",
 			"members": [
 				{
+					"name": "Yasser Hariri",
+					"type": "URA, 2023/01 -2023/04, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
+					"email": "jkijoe@uoguelph.ca",
+					"linkedin": "yasserammarhariri@gmail.com"
+				},
+				{
 					"name": "Kritika Khanna",
 					"type": "URA, 2022/11 -2023/01, Biomedical Engineering",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
@@ -224,7 +225,7 @@
 				},
 				{
 					"name": "Taha Memon",
-					"type": "URA, 2021/05 -2021/08, Computer Science",
+					"type": "URA, 2021/05 -2021/08; 2023/01 -2023/04 , Computer Science",
 					"description": "<lessstrong>Current Position</lessstrong>:Undergraduate student at UoG <br><br> <lessStrong>Topic</lessStrong>: Cloud-based digital twin development <li> B.S. University of Guelph<br>",
 					"email": "tmemon@uoguelph.ca",
 					"linkedin": ""
