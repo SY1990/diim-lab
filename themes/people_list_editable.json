@@ -10,18 +10,18 @@
 		{
 			"group_name": "Research Staff",
 			"members": [
-              	{
-					"name": "Tony Zhang",
-					"type": "Research Intern, 2023/05 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University of Toronto </li>  <br>",
-					"email": "czhang31@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
+  				{
 					"name": "Md Tahmid Bin Touhid",
 					"type": "Research Assistant, 2023/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> M.S. University of Guelph </li><li> B.S. University of Malaya <br>",
 					"email": "mtouhid@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Charity Yeboaa",
+					"type": "Research Intern, 2023/09 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University for Development Studies </li>  <br>",
+					"email": "cobengye@uoguelph.ca",
 					"linkedin": ""
 				}
 			]
@@ -44,7 +44,7 @@
 					"email": "vhaselta@uoguelph.ca",
 					"linkedin": ""
 				},
-								{
+				{
 					"name": "Enshen Zhu",
 					"type": "PhD, Engineering Systems and Computing, 2023/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Human digital twin modeling and simulation <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Toronto <br>",
@@ -131,8 +131,14 @@
 					"description": "<lessstrong>Topic</lessstrong>:cloud-based digital twin platform development </li> <li> M.Eng. University of Guelph <br> </li><li> B.S. Sardar Vallabhai Patel Institute of Technology<br> ",
 					"email": "mmarne@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/mrunalmarne/"
-			    }
-
+			    },
+				{
+					"name": "Tony Zhang",
+					"type": "Research Intern, 2023/05 - 2023/09 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University of Toronto </li>  <br>",
+					"email": "czhang31@uoguelph.ca",
+					"linkedin": ""
+				}
 			]
 		},
 		{
