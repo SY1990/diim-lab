@@ -10,7 +10,14 @@
 		{
 			"group_name": "Research Staff",
 			"members": [
-  				{
+  					{
+					"name": "Junfei Li",
+					"type": "Postdoctoral Research Fellow, 2023/09 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
+					"email": "jli64@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Md Tahmid Bin Touhid",
 					"type": "Research Assistant, 2023/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> M.S. University of Guelph </li><li> B.S. University of Malaya <br>",
