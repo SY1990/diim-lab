@@ -10,40 +10,20 @@
 		{
 			"group_name": "Research Staff",
 			"members": [
-  					{
+				{
 					"name": "Junfei Li",
 					"type": "Postdoctoral Research Fellow, 2023/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
 					"email": "jli64@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Md Tahmid Bin Touhid",
-					"type": "Research Assistant, 2023/09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> M.S. University of Guelph </li><li> B.S. University of Malaya <br>",
-					"email": "mtouhid@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Charity Yeboaa",
-					"type": "Research Intern, 2023/09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University for Development Studies </li>  <br>",
-					"email": "cobengye@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
 				}
+
 			]
 		},
 
 		{
 			"group_name": "Doctorate Students",
 			"members": [
-				{
-					"name": "Ahmad Naser",
-					"type": "PhD, Mechanical Engineering, 2021.06- <br>",
-					"description": "<lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
-					"email": "anaser@uoguelph.ca",
-					"linkedin": ""
-				},
 				{
 					"name": "Vahid Haseltalab",
 					"type": "PhD, Mechanical Engineering, 2021.09- <br>",
@@ -71,27 +51,6 @@
 		{
 			"group_name": "Master's Students",
 			"members": [
-				{
-					"name": "Patrick Haynes",
-					"type": "Mechanical Engineering, 2021/09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
-					"email": "phaynes@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Bridget Zhang",
-					"type": "Visiting student, Computer Science, 2023/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Data-driven design for mass customization <br> <li> M.S. Georgia Institute of Technology  </li> <li> M.S. McGill University <br> </li> <li> B.A. Shandong Normal University  </li>",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Vipul Patel",
-					"type": "Mechanical Engineering, 2023/04 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: DT for AM quality prediction <br> <li> B.S. G.H. Patel College of Engineering and Technology <br>",
-					"email": "vipul@uoguelph.ca",
-					"linkedin": ""
-				},
 				{
 					"name": "Anna Mafor",
 					"type": "Engineering Systems and Computing, 2023/09 - <br> ",
@@ -144,6 +103,32 @@
 					"type": "Research Intern, 2023/05 - 2023/09 <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University of Toronto </li>  <br>",
 					"email": "czhang31@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/tony19990329/"
+				},
+				{
+					"name": "Md Tahmid Bin Touhid",
+					"type": "Research Assistant, 2023/09 - 2023/11 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> M.S. University of Guelph </li><li> B.S. University of Malaya <br>",
+					"email": "mtouhid@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Charity Yeboaa",
+					"type": "Research Intern, 2023/09 -2023/12 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University for Development Studies </li>  <br>",
+					"email": "cobengye@uoguelph.ca",
+					"linkedin": ""
+				}
+			]
+		},
+		{
+			"group_name": "Alumni - PhD",
+			"members": [
+				{
+					"name": "Ahmad Naser",
+					"type": "PhD, Mechanical Engineering, 2021.06-2023.12 <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
+					"email": "anaser@uoguelph.ca",
 					"linkedin": ""
 				}
 			]
@@ -152,25 +137,46 @@
 			"group_name": "Alumni - Master's",
 			"members": [
 				{
+					"name": "Patrick Haynes",
+					"type": "Mechanical Engineering, 2021/09 -2023/12 <br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
+					"email": "phaynes@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Vipul Patel",
+					"type": "Mechanical Engineering, 2023/04 - <br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: DT for AM quality prediction <br> <li> B.S. G.H. Patel College of Engineering and Technology <br>",
+					"email": "vipul@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Carter Powell",
 					"type": "Mechanical Engineering, 2022/01 - 2023/08 <br> ",
 					"description": "<lessstrong>Current Position</lessstrong>: Director of R&D at NEEB Engineering<br><lessStrong>Topic</lessStrong>: Design for Mass Customization <br> <li> B.S. University of Guelph <br>",
 					"email": "cpowel02@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/carter-p/"
 				},
 				{
 					"name": "Md Tahmid Bin Touhid",
 					"type": "Engineering Systems and Computing, 2022/01 - 2023/08<br> ",
 					"description": "<lessstrong>Current Position</lessstrong>: Research assistant at University of Guelph<br><lessStrong>Topic</lessStrong>: Digital twin modeling and simulation <br> <li> B.S. University of Malaya <br>",
 					"email": "mtouhid@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/tahmid-touhid/"
 				},
 				{
 					"name": "Enshen Zhu",
-					"type": "Engineering Systems and Computing, 2022/07 - <br> ",
+					"type": "Engineering Systems and Computing, 2022/07 -2023/08 <br> ",
 					"description": "<lessstrong>Current Position</lessstrong>: PhD student at University of Guelph <lessStrong>Topic</lessStrong>: Computational design for mass customization <br> <li> B.S. University of Toronto <br>",
 					"email": "enshen@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/enshen-zhu/"
+				},
+				{
+					"name": "Bridget Zhang",
+					"type": "Visiting student, Computer Science, 2023/01 - 2023/04 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Data-driven design for mass customization <br> <li> M.S. Georgia Institute of Technology  </li> <li> M.S. McGill University <br> </li> <li> B.A. Shandong Normal University  </li>",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/bridget-zhang37/"
 				},
 				{
 					"name": "Sayed Amirhossein Mirahmadi",
@@ -211,7 +217,7 @@
 				{
 					"name": "Purvatya Vishwash Patel",
 					"type": "MEng, Mechanical Engineering, 2021/07 -2021.12 <br> ",
-					"description": "<lessstrong>Current Position</lessstrong>:Drafting Engineer at MOBIA Technology Innovations <br><br> <lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Instructional Designer at Canada Life <br><br> <lessStrong>Topic</lessStrong>: Vision-based quality assurance of composite printing <br> <li> B.S. Uka Tarsadia University <br>",
 					"email": "purvatya@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/purvatya/"
 				},
