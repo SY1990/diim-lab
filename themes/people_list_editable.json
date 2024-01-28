@@ -57,26 +57,27 @@
 					"description": "<lessStrong>Topic</lessStrong>: Digital and smart farming <br> <li> B.S. University of Bamenda <br>",
 					"email": "amafor@uoguelph.ca",
 					"linkedin": ""
+				},
+				{
+					"name": "Da Long",
+					"type": "Mechanical Engineering, 2024/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for improved worker welfare <br> <li> B.S. Beihang University <br>",
+					"email": "dlong02@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Manal Behih",
+					"type": "Engineering Systems and Computing, 2024/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Quality prediction of 3D printing process <br> <li> B.S. McMaster University <br>",
+					"email": "mbehih@uoguelph.ca",
+					"linkedin": ""
 				}
 			]
 		},
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
-				{
-					"name": "Celina Zhou",
-					"type": "URA, 2023/02 -, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Mass customization design with 3D printing <li> B.Eng. University of Guelph <br>",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Xiaoqing Zhao",
-					"type": "URA, 2023/01 -, Mechanical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
-					"email": "",
-					"linkedin": ""
-				}
+
 
 			]
 		},
@@ -253,6 +254,20 @@
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
 					"email": "jkijoe@uoguelph.ca",
 					"linkedin": "yasserammarhariri@gmail.com"
+				},
+				{
+					"name": "Celina Zhou",
+					"type": "URA, 2023/02 -2023/04, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Mass customization design with 3D printing <li> B.Eng. University of Guelph <br>",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Xiaoqing Zhao",
+					"type": "URA, 2023/01 -2023/04, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin for quality prediction <li> B.Eng. University of Guelph <br>",
+					"email": "",
+					"linkedin": ""
 				},
 				{
 					"name": "Kritika Khanna",
