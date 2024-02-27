@@ -12,10 +12,17 @@
 			"members": [
 				{
 					"name": "Junfei Li",
-					"type": "Postdoctoral Research Fellow, 2023/09 - <br> ",
+					"type": "Postdoctoral Research Fellow, 2023.09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
 					"email": "jli64@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
+				},
+				{
+					"name": "Ahmad Naser",
+					"type": "Research Associate, 2024.02- <br>",
+					"description": "<lessStrong>Topic</lessStrong>: Machine learning-assisted optimization for sustainable additive manufacturing <br><li> Ph.D. University of Guelph </li> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
+					"email": "anaser@uoguelph.ca",
+					"linkedin": ""
 				}
 
 			]
