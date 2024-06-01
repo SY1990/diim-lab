@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7af2f1-1679-4bbb-9ea9-ea6480fc62b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/img/people/manal_behih.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/img/gallary/CSME2024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/img/people/alejandro_moreno.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/people_list_editable.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/people_list_editable.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

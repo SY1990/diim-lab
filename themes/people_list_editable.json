@@ -36,21 +36,28 @@
 					"type": "PhD, Mechanical Engineering, 2021.09- <br>",
 					"description": "<lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
 					"email": "vhaselta@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/vhaseltalab/"
 				},
 				{
 					"name": "Enshen Zhu",
 					"type": "PhD, Engineering Systems and Computing, 2023/09 - <br> ",
 					"description": "<lessStrong>Topic</lessStrong>: Human digital twin modeling and simulation <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Toronto <br>",
 					"email": "enshen@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/enshen-zhu/"
 				},
 				{
 					"name": "Mohammad Vahid Ehteshamfar",
 					"type": "PhD, Mechanical Engineering, 2023.09- <br>",
 					"description": "<lessStrong>Topic</lessStrong>: Digital twin for smart additive manufacturing <br> <li> M.S. Amirkabir University of Technology  </li> <li> B.S. Babol Noshiravani University of Technology <br>",
 					"email": "mehtesha@uoguelph.ca",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/mohammad-vahid-ehteshamfar/"
+				},
+				{
+					"name": "Pranjali Sagar",
+					"type": "PhD, Engineering Systems and Computing, 2024.09- <br>",
+					"description": "<lessStrong>Topic</lessStrong>: AI for novel Agrifood applications <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Pune <br>",
+					"email": "psagar@uoguelph.ca",
+					"linkedin": "linkedin.com/in/pranjali-sagar-1834271a0"
 				}
 
 			]
@@ -84,8 +91,27 @@
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
-
-
+				{
+					"name": "Jasmun Banwait",
+					"type": "URA, 2024/05 -2024/08, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
+					"email": "jbanwait@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Alejandro Moreno",
+					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Machine Learning models for sustainable AM <li> B.S. The National University of Colombia <br>",
+					"email": "apineros@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/alejandro-pineros-moreno/"
+				},
+				{
+					"name": "Saloni Upadhyay",
+					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Machine learning models for AM quality <li> B.S. Dayalbagh Educational Institute <br>",
+					"email": "",
+					"linkedin": ""
+				}
 			]
 		},
 		{
@@ -135,7 +161,7 @@
 				{
 					"name": "Ahmad Naser",
 					"type": "PhD, Mechanical Engineering, 2021.06-2023.12 <br>",
-					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: Assistant Professor at University of Manitoba <br><lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
 					"email": "anaser@uoguelph.ca",
 					"linkedin": ""
 				}
