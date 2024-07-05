@@ -16,14 +16,8 @@
 					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
 					"email": "jli64@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
-				},
-				{
-					"name": "Ahmad Naser",
-					"type": "Research Associate, 2024.02- <br>",
-					"description": "<lessStrong>Topic</lessStrong>: Machine learning-assisted optimization for sustainable additive manufacturing <br><li> Ph.D. University of Guelph </li> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
-					"email": "anaser@uoguelph.ca",
-					"linkedin": ""
 				}
+
 
 			]
 		},
@@ -92,6 +86,13 @@
 			"group_name": "Undergraduate Students",
 			"members": [
 				{
+					"name": "Vidhi Patel",
+					"type": "URA, 2024/06 -2024/08, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Characterization of structured catalyst<li> B.S. University of Guelph <br>",
+					"email": "vpatel07@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Jasmun Banwait",
 					"type": "URA, 2024/05 -2024/08, Biomedical Engineering",
 					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
@@ -115,29 +116,21 @@
 			]
 		},
 		{
-			"group_name": "Alumni - RA",
+			"group_name": "Alumni - Research Staff",
 			"members": [
 				{
-
-					"name": "Jonathan Millman",
-					"type": "Research Assistant, 2021/05 -2021/08, co-advised by Dr. Simha",
-					"description": "<lessstrong>Current Position</lessstrong>: <br><br> <lessStrong>Topic</lessStrong>: Novel Optimized Cores for Multi-Blast Sandwich Shields <li> B.S. University of Guelph<br>",
-					"email": "jmillman@uoguelph.ca",
+					"name": "Ahmad Naser",
+					"type": "Research Associate, 2024.02-2024.06 <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: Assistant Professor at University of Manitoba<br><br><lessStrong>Topic</lessStrong>: Machine learning-assisted optimization for sustainable additive manufacturing <br><li> Ph.D. University of Guelph </li> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
+					"email": "anaser@uoguelph.ca",
 					"linkedin": ""
 				},
 				{
-					"name": "Mrunal Sangramsinh Marne",
-					"type": "2021/08 - 2022/08",
-					"description": "<lessstrong>Topic</lessstrong>:cloud-based digital twin platform development </li> <li> M.Eng. University of Guelph <br> </li><li> B.S. Sardar Vallabhai Patel Institute of Technology<br> ",
-					"email": "mmarne@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/mrunalmarne/"
-			    },
-				{
-					"name": "Tony Zhang",
-					"type": "Research Intern, 2023/05 - 2023/09 <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University of Toronto </li>  <br>",
-					"email": "czhang31@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/tony19990329/"
+					"name": "Charity Yeboaa",
+					"type": "Research Intern, 2023/09 -2023/12 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University for Development Studies </li>  <br>",
+					"email": "cobengye@uoguelph.ca",
+					"linkedin": ""
 				},
 				{
 					"name": "Md Tahmid Bin Touhid",
@@ -147,12 +140,28 @@
 					"linkedin": ""
 				},
 				{
-					"name": "Charity Yeboaa",
-					"type": "Research Intern, 2023/09 -2023/12 <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University for Development Studies </li>  <br>",
-					"email": "cobengye@uoguelph.ca",
+					"name": "Tony Zhang",
+					"type": "Research Intern, 2023/05 - 2023/09 <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Industry big data analytics <br> <li> M.S. University of Guelph </li> <li> B.S. University of Toronto </li>  <br>",
+					"email": "czhang31@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/tony19990329/"
+				},
+				{
+					"name": "Mrunal Sangramsinh Marne",
+					"type": "2021/08 - 2022/08",
+					"description": "<lessstrong>Topic</lessstrong>:cloud-based digital twin platform development </li> <li> M.Eng. University of Guelph <br> </li><li> B.S. Sardar Vallabhai Patel Institute of Technology<br> ",
+					"email": "mmarne@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/mrunalmarne/"
+			    },
+				{
+
+					"name": "Jonathan Millman",
+					"type": "Research Assistant, 2021/05 -2021/08, co-advised by Dr. Simha",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><br> <lessStrong>Topic</lessStrong>: Novel Optimized Cores for Multi-Blast Sandwich Shields <li> B.S. University of Guelph<br>",
+					"email": "jmillman@uoguelph.ca",
 					"linkedin": ""
 				}
+
 			]
 		},
 		{
