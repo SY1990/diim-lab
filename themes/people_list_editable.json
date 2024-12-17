@@ -10,13 +10,7 @@
 		{
 			"group_name": "Research Staff",
 			"members": [
-				{
-					"name": "Junfei Li",
-					"type": "Postdoctoral Research Fellow, 2023.09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
-					"email": "jli64@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
-				}
+
 
 
 			]
@@ -52,8 +46,21 @@
 					"description": "<lessStrong>Topic</lessStrong>: AI for novel Agrifood applications <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Pune <br>",
 					"email": "psagar@uoguelph.ca",
 					"linkedin": "linkedin.com/in/pranjali-sagar-1834271a0"
+				},
+				{
+					"name": "Bhavesh Solanki",
+					"type": "PhD, Mechanical Engineering, 2025.01- <br>",
+					"description": "<lessStrong>Topic</lessStrong>: Digital twin for smart training <br> <li> M.S. Gujarat Technological University  </li> <li> B.S. Ganpat University <br>",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Alireza Naseri",
+					"type": "PhD, Engineering System & Computing, 2025.01- <br>",
+					"description": "<lessStrong>Topic</lessStrong>: HRC for disassembly <br> <li> B.S. K.N. Toosi University of Technology <br>",
+					"email": "",
+					"linkedin": ""
 				}
-
 			]
 		},
 		{
@@ -79,45 +86,47 @@
 					"description": "<lessStrong>Topic</lessStrong>: Quality prediction of 3D printing process <br> <li> B.S. McMaster University <br>",
 					"email": "mbehih@uoguelph.ca",
 					"linkedin": ""
-				}
-			]
-		},
-		{
-			"group_name": "Undergraduate Students",
-			"members": [
+				},
 				{
-					"name": "Vidhi Patel",
-					"type": "URA, 2024/06 -2024/08, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Characterization of structured catalyst<li> B.S. University of Guelph <br>",
-					"email": "vpatel07@uoguelph.ca",
+					"name": "Zezhong Yu",
+					"type": "Computer Engineering, 2024/05 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br>  <li> M.S. University of Science and Technology of China </li><br><li> B.S. Shangdong Normal University </li>  <br>",
+					"email": "",
 					"linkedin": ""
 				},
 				{
-					"name": "Jasmun Banwait",
-					"type": "URA, 2024/05 -2024/08, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
-					"email": "jbanwait@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Alejandro Moreno",
-					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Machine Learning models for sustainable AM <li> B.S. The National University of Colombia <br>",
-					"email": "apineros@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/alejandro-pineros-moreno/"
-				},
-				{
-					"name": "Saloni Upadhyay",
-					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Machine learning models for AM quality <li> B.S. Dayalbagh Educational Institute <br>",
+					"name": "Syad_khwajazada",
+					"type": "Computer Engineering, 2025/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration for assembly <br>  <li> B.S. University of Guelph </li> <br>",
 					"email": "",
 					"linkedin": ""
 				}
 			]
 		},
 		{
+			"group_name": "Undergraduate Students",
+			"members": [
+
+				{
+					"name": "Jasmun Banwait",
+					"type": "URA, 2024/05 -, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
+					"email": "jbanwait@uoguelph.ca",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
 			"group_name": "Alumni - Research Staff",
 			"members": [
+				{
+					"name": "Junfei Li",
+					"type": "Postdoctoral Research Fellow, 2023.09 - 2024.09<br> ",
+					"description": "<lessstrong>Current Position</lessstrong>:<br><br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
+					"email": "jli64@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
+				},
 				{
 					"name": "Ahmad Naser",
 					"type": "Research Associate, 2024.02-2024.06 <br>",
@@ -290,6 +299,27 @@
 		{
 			"group_name": "Alumni - Undergrad",
 			"members": [
+				{
+					"name": "Vidhi Patel",
+					"type": "URA, 2024/06 -2024/08, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Characterization of structured catalyst<li> B.S. University of Guelph <br>",
+					"email": "vpatel07@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Alejandro Moreno",
+					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Machine Learning models for sustainable AM <li> B.S. The National University of Colombia <br>",
+					"email": "apineros@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/alejandro-pineros-moreno/"
+				},
+				{
+					"name": "Saloni Upadhyay",
+					"type": "Mitacs Globalink Intern, 2024/06 -2024/08, Mechanical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Machine learning models for AM quality <li> B.S. Dayalbagh Educational Institute <br>",
+					"email": "",
+					"linkedin": ""
+				},
 				{
 					"name": "Yasser Hariri",
 					"type": "URA, 2023/01 -2023/04, Biomedical Engineering",
