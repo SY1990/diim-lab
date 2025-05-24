@@ -80,13 +80,7 @@
 					"email": "dlong02@uoguelph.ca",
 					"linkedin": ""
 				},
-				{
-					"name": "Manal Behih",
-					"type": "Engineering Systems and Computing, 2024/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Quality prediction of 3D printing process <br> <li> B.S. McMaster University <br>",
-					"email": "mbehih@uoguelph.ca",
-					"linkedin": ""
-				},
+
 				{
 					"name": "Alireza Naseri",
 					"type": "Engineering System & Computing, 2024.09- <br>",
@@ -94,13 +88,7 @@
 					"email": "",
 					"linkedin": ""
 				},
-				{
-					"name": "Zezhong Yu",
-					"type": "Computer Engineering, 2025/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration <br>  <li> M.S. University of Science and Technology of China </li><li> B.S. Shangdong Normal University </li>  <br>",
-					"email": "",
-					"linkedin": ""
-				},
+
 				{
 					"name": "Syad khwajazada",
 					"type": "Computer Engineering, 2025/01 - <br> ",
@@ -130,7 +118,7 @@
 				{
 					"name": "Junfei Li",
 					"type": "Postdoctoral Research Fellow, 2023.09 - 2024.09<br> ",
-					"description": "<lessstrong>Current Position</lessstrong>:<br><br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:postdoc at U of Guelph<br><br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
 					"email": "jli64@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
 				},
@@ -196,9 +184,23 @@
 			"group_name": "Alumni - Master's",
 			"members": [
 				{
+					"name": "Zezhong Yu",
+					"type": "Computer Engineering, 2025/01 -2025/04 <br> ",
+					"description": "<lessstrong>Current Position</lessstrong>:Research assistant at U of Guelph <br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br>  <li> M.S. University of Science and Technology of China </li><li> B.S. Shangdong Normal University </li>  <br>",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Manal Behih",
+					"type": "Engineering Systems and Computing, 2024/01 - 2025/04<br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: Electrical Engineering Technologist at Edge Design & Engineering Associates Inc  <br> <lessStrong>Topic</lessStrong>: Quality prediction of 3D printing process <br> <li> B.S. McMaster University <br>",
+					"email": "mbehih@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
 					"name": "Patrick Haynes",
 					"type": "Mechanical Engineering, 2021/09 -2023/12 <br> ",
-					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: Mechanical Engineer at Westinghouse Canada<br><lessStrong>Topic</lessStrong>: Design and optimization of camper body <br> <li> B.S. Queens University <br>",
 					"email": "phaynes@uoguelph.ca",
 					"linkedin": ""
 				},
