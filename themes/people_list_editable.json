@@ -101,14 +101,21 @@
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
-
 				{
-					"name": "Jasmun Banwait",
-					"type": "URA, 2024/05 -, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
-					"email": "jbanwait@uoguelph.ca",
+					"name": "Sebastian Valencia",
+					"type": "Mitacs Globalink Intern, 2025/05 -, Engineering Physics",
+					"description": "<lessStrong>Topic</lessStrong>: Data-driven nozzle wear prediction for AM <li> B.S. Universidad Nacional de Colombia <br>",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/sebasgaviriav/"
+				},
+				{
+					"name": "Timothy Khan",
+					"type": "USRA, 2025/05 -, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Digital Twin modeling for FDM printers <li> B.S. University of Guelph <br>",
+					"email": "tkhan12@uoguelph.ca",
 					"linkedin": ""
 				}
+
 
 			]
 		},
@@ -308,6 +315,13 @@
 		{
 			"group_name": "Alumni - Undergrad",
 			"members": [
+				{
+					"name": "Jasmun Banwait",
+					"type": "URA, 2024/05 -2025.04, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for human digital twins <li> B.S. University of Guelph <br>",
+					"email": "jbanwait@uoguelph.ca",
+					"linkedin": ""
+				},
 				{
 					"name": "Vidhi Patel",
 					"type": "URA, 2024/06 -2024/08, Biomedical Engineering",
