@@ -9,115 +9,343 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<link href="themes/css/base.css" rel="stylesheet" type="text/css">
+    <link href="themes/css/base.css" rel="stylesheet" type="text/css">
+    <title>Photo Container Example</title>
+    <style>
+    * {
+      box-sizing: border-box;
+    }
 
 
+ .photo-container {
+      width: 75vw;
+      max-width: 1000px;
+      aspect-ratio: 6/5.1;
+      position: relative;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+      background-color: #000;
+      cursor: pointer;
+
+      /* Center horizontally and vertically relative to parent content */
+      margin: 40px auto; /* horizontal center, with spacing from top/bottom */
+    }
+
+    .photo-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .caption {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      font-size: 18px;
+      text-align: center;
+      padding: 10px;
+    }
+
+    </style>
 </head>
 
 
 <body>
+<div id="content">
+    <div class="content-section">
+        <h1>News</h1>
 
-	<div id="content">
-		<div class="content-section">
-			<h1>News</h1>
+        <div class="news-interface">
 
-			<div class="news-interface">
+            <p>
+                [paper] [people] [fund][award] [service] [talk]<br>
+                <br>
+            <p>
+                <lessstrong>2023.08.21</lessstrong>
+                &nbsp [people]
+                <lessstrong>Carter</lessstrong>
+                and
+                <lessstrong>Tahmid</lessstrong>
+                have successfully defended their Master's thesis, congratulations
+            </p>
+            <p>
+                <lessstrong>2023.05.30</lessstrong>
+                &nbsp [talk]
+                <lessstrong>Carter</lessstrong>
+                and
+                <lessstrong> Ahmad</lessstrong>
+                gave presentations at CSME Congress 2023 at Sherbrooke.
+            <p>
+                <lessstrong>2023.04.25</lessstrong>
+                &nbsp [fund]
+                <lessstrong>Dr. Yang</lessstrong>
+                's proposal (PI) on human digital twin and smart manufacturing
+                was successfully funded by NFRF-Exploration Grant
+            </p>
+            <p>
+                <lessstrong>2023.04.20</lessstrong>
+                &nbsp [people]
+                <lessstrong>Nil</lessstrong>
+                ,
+                <lessstrong>Purav</lessstrong>
+                ,
+                <lessstrong>Jimit</lessstrong>
+                , and
+                <lessstrong>Amir</lessstrong>
+                have successfully defended their Master's projects, congratulations
+            </p>
+            <p>
+                <lessstrong>2022.12.16</lessstrong>
+                &nbsp [paper]
+                <lessstrong> Vahid's</lessstrong>
+                review paper on 3D printed catalyst is accepted by Journal of Catalysis, congratulations!
+            </p>
+            <p>
+                <lessstrong>2022.12.15</lessstrong>
+                &nbsp [people]
+                <lessstrong>Akash</lessstrong>
+                has successfully defended his Master's projects, congratulations
+            </p>
+            <p>
+                <lessstrong>2022.07.01</lessstrong>
+                &nbsp [people]
+                <lessstrong>Purav</lessstrong>
+                ,
+                <lessstrong>Nil</lessstrong>
+                , and
+                <lessstrong>Enshen</lessstrong>
+                joined our group as a master student, welcome!
+            </p>
+            <p>
+                <lessstrong>2022.04.14</lessstrong>
+                &nbsp [fund]
+                <lessstrong>Dr. Yang</lessstrong>
+                's proposal (PI) on mass customization of smart wearable products
+                was successfully funded by NSERC Discovery Grant
+            </p>
+            <p>
+                <lessstrong>2022.04.08</lessstrong>
+                &nbsp [paper]
+                <lessstrong> Pinkesh's</lessstrong>
+                paper on quantitative supply chain resilience analysis
+                of AM-enabled supply chains has been accepted for publication in Frontiers in Manufacturing Technology,
+                congratulations!
+            </p>
+            <p>
+                <lessstrong>2022.04.03</lessstrong>
+                &nbsp [paper]
+                <lessstrong> Purvatya's</lessstrong>
+                paper on vision-based quality assurance
+                of 3D composite printing has been accepted for publication in NAMRC 50 and Manufacturing Letters,
+                congratulations!
+            </p>
+            <p>
+                <lessstrong>2021.12.16</lessstrong>
+                &nbsp [fund]
+                <lessstrong>Dr. Yang</lessstrong>
+                's proposal (PI) on digital twin and virtual reality
+                was successfully funded. Thanks D2L for the financial support and the team at both U of Guelph and U of
+                Manitoba
+            </p>
+            <p>
+                <lessstrong>2021.12.16</lessstrong>
+                &nbsp [people]
+                <lessstrong>Pinkesh</lessstrong>
+                and
+                <lessstrong>Purvatya</lessstrong>
+                have successfully defended their Master's projects, congratulations
+            </p>
+            <p>
+                <lessstrong>2021.09.05</lessstrong>
+                &nbsp [people]
+                <lessstrong>Vahid</lessstrong>
+                and
+                <lessstrong>Patrick</lessstrong>
+                joined our group as a PhD student and a master student respectively, welcome!
+            </p>
+            <p>
+                <lessstrong>2021.07.05</lessstrong>
+                &nbsp [people]
+                <lessstrong>Purvatya</lessstrong>
+                joined our group as a master student, welcome!
+            </p>
+            <p>
+                <lessstrong>2021.06.30</lessstrong>
+                &nbsp [fund]
+                <lessstrong>Dr. Yang</lessstrong>
+                (PI) and Dr. Defersha (co-PI)'s joint
+                proposal on digital twin was successfully funded. Thanks NSERC Alliance and Aleo Canada for the
+                financial support
+            </p>
+            <p>
+                <lessstrong>2021.06.04</lessstrong>
+                &nbsp [people]
+                <lessstrong>Ahmad</lessstrong>
+                joined our group as a PhD student, welcome!
+            </p>
+            <p>
+                <lessstrong>2021.05.11</lessstrong>
+                &nbsp [paper]
+                <lessstrong> Mrunal</lessstrong>
+                presented our work in the 5th CIGR International Conference of Agricultural Engineering hosted by CSBE,
+                good job!
+            </p>
+            <p>
+                <lessstrong>2021.05.04</lessstrong>
+                &nbsp [fund]
+                <lessstrong>Dr. Yang</lessstrong>
+                (Co-PI) and Dr. Simha (PI)'s joint
+                proposal was successfully funded by the Department of National Defense, congratulations!
+            </p>
+            <p>
+                <lessstrong>2021.05.03</lessstrong>
+                &nbsp [people]
+                <lessstrong>Taha</lessstrong>
+                joined our group as a URA and received the URA scholarship from SOE, congratulations!
+            </p>
+            <p>
+                <lessstrong>2021.01.12</lessstrong>
+                &nbsp [people]
+                <lessstrong>Pinkesh</lessstrong>
+                and
+                <lessstrong>Bhavdip</lessstrong>
+                joined our group as master students, welcome!
+            </p>
+            <p>
+                <lessstrong>2020.12.17</lessstrong>
+                &nbsp [people]
+                <lessstrong>Mrunal</lessstrong>
+                and
+                <lessstrong>Manan</lessstrong>
+                have successfully defended their Master's projects, congratulations
+            </p>
+            <p>
+                <lessstrong>2020.09.15</lessstrong>
+                &nbsp [people]
+                <lessstrong>Mrunal</lessstrong>
+                and
+                <lessstrong>Manan</lessstrong>
+                joined our group as master students, welcome!
+            </p>
+            <p>
+                <lessstrong>2020.09.15</lessstrong>
+                &nbsp [people]
+                <lessstrong>Dr. Yang</lessstrong>
+                joined the University of Guelph as Assistant Professor.
+            </p>
+            </p>
 
-				<p>
-					[paper] [people] [fund][award] [service] [talk]<br>
-					<br>
-				    <p><lessstrong>2023.08.21</lessstrong>  &nbsp [people] <lessstrong>Carter</lessstrong> and <lessstrong>Tahmid</lessstrong> have successfully defended their Master's thesis, congratulations</p>
-				    <p><lessstrong>2023.05.30</lessstrong>  &nbsp [talk] <lessstrong>Carter </lessstrong> and <lessstrong> Ahmad </lessstrong> gave presentations at CSME Congress 2023 at Sherbrooke.
-				    <p><lessstrong>2023.04.25</lessstrong>  &nbsp [fund] <lessstrong>Dr. Yang </lessstrong>'s proposal (PI) on human digital twin and smart manufacturing
-                     was successfully funded by NFRF-Exploration Grant</p>
-				    <p><lessstrong>2023.04.20</lessstrong>  &nbsp [people] <lessstrong>Nil</lessstrong>, <lessstrong>Purav</lessstrong>, <lessstrong>Jimit</lessstrong>, and <lessstrong>Amir</lessstrong>  have successfully defended their Master's projects, congratulations</p>
-				    <p><lessstrong>2022.12.16</lessstrong>  &nbsp [paper] <lessstrong> Vahid's</lessstrong> review paper on 3D printed catalyst is accepted by Journal of Catalysis, congratulations! </p>
-				    <p><lessstrong>2022.12.15</lessstrong>  &nbsp [people] <lessstrong>Akash</lessstrong> has successfully defended his Master's projects, congratulations</p>
-				    <p><lessstrong>2022.07.01</lessstrong>  &nbsp [people] <lessstrong>Purav</lessstrong>, <lessstrong>Nil</lessstrong>, and <lessstrong>Enshen</lessstrong>
-				     joined our group as a master student, welcome!</p>
-				    <p><lessstrong>2022.04.14</lessstrong>  &nbsp [fund] <lessstrong>Dr. Yang </lessstrong>'s proposal (PI) on mass customization of smart wearable products
-                     was successfully funded by NSERC Discovery Grant</p>
-				    <p><lessstrong>2022.04.08</lessstrong>  &nbsp [paper] <lessstrong> Pinkesh's</lessstrong> paper on quantitative supply chain resilience analysis
-				        of AM-enabled supply chains has been accepted for publication in Frontiers in Manufacturing Technology, congratulations!</p>
-				    <p><lessstrong>2022.04.03</lessstrong>  &nbsp [paper] <lessstrong> Purvatya's</lessstrong> paper on vision-based quality assurance
-				        of 3D composite printing has been accepted for publication in NAMRC 50 and Manufacturing Letters, congratulations!</p>
-                    <p><lessstrong>2021.12.16</lessstrong>  &nbsp [fund] <lessstrong>Dr. Yang </lessstrong>'s proposal (PI) on digital twin and virtual reality
-                     was successfully funded. Thanks D2L for the financial support and the team at both U of Guelph and U of Manitoba</p>
-                    <p><lessstrong>2021.12.16</lessstrong>  &nbsp [people] <lessstrong>Pinkesh</lessstrong> and <lessstrong>Purvatya</lessstrong>
-						have successfully defended their Master's projects, congratulations</p>
-				    <p><lessstrong>2021.09.05</lessstrong>  &nbsp [people] <lessstrong>Vahid</lessstrong> and <lessstrong>Patrick</lessstrong>
-				     joined our group as a PhD student and a master student respectively, welcome!</p>
-				    <p><lessstrong>2021.07.05</lessstrong>  &nbsp [people] <lessstrong>Purvatya</lessstrong>
-				     joined our group as a master student, welcome!</p>
-				    <p> <lessstrong>2021.06.30</lessstrong>  &nbsp [fund] <lessstrong>Dr. Yang </lessstrong>(PI) and Dr. Defersha (co-PI)'s joint
-						proposal on digital twin was successfully funded. Thanks NSERC Alliance and Aleo Canada for the financial support</p>
-					<p><lessstrong>2021.06.04</lessstrong>  &nbsp [people] <lessstrong>Ahmad</lessstrong>
-				     joined our group as a PhD student, welcome!</p>
-					<p><lessstrong>2021.05.11</lessstrong>  &nbsp [paper] <lessstrong> Mrunal </lessstrong>
-						presented our work in the 5th CIGR International Conference of Agricultural Engineering hosted by CSBE, good job!</p>
-					<p> <lessstrong>2021.05.04</lessstrong>  &nbsp [fund] <lessstrong>Dr. Yang </lessstrong>(Co-PI) and Dr. Simha (PI)'s joint
-						proposal was successfully funded by the Department of National Defense, congratulations!</p>
-					<p><lessstrong>2021.05.03</lessstrong>  &nbsp [people] <lessstrong>Taha</lessstrong>
-						joined our group as a URA and received the URA scholarship from SOE, congratulations!</p>
-					<p><lessstrong>2021.01.12</lessstrong>  &nbsp [people] <lessstrong>Pinkesh</lessstrong> and <lessstrong>Bhavdip</lessstrong>
-						joined our group as master students, welcome!</p>
-					<p><lessstrong>2020.12.17</lessstrong>  &nbsp [people] <lessstrong>Mrunal</lessstrong> and <lessstrong>Manan</lessstrong>
-						have successfully defended their Master's projects, congratulations</p>
-					<p><lessstrong>2020.09.15</lessstrong>  &nbsp [people] <lessstrong>Mrunal</lessstrong> and <lessstrong>Manan</lessstrong>
-						joined our group as master students, welcome!</p>
-					<p><lessstrong>2020.09.15</lessstrong>  &nbsp [people] <lessstrong>Dr. Yang</lessstrong>
-						joined the University of Guelph as Assistant Professor.</p>
-      			</p>
+        </div>
+    </div>
+</div>
 
-			</div>
-		</div>
+<div id="content">
+    <hr class="divider">
+    <<div class="content-section">
+        <h1>DIIM Lab Gallery</h1>
+<!--
+        <div class="research-overview-picture">
 
-		<hr class="divider">
-		<div class="content-section">
-		     <h1>Gallery</h1>
-			<!--<div class="news-interface">
-			    <div class="news-pictures">
-					<div class="news-pictures-list">
-						 	<img   src="themes/img/gallary/grad2024.jpg">
-					</div>
+            <img src="themes/img/gallary/CSME2025.jpg" width="50%">
+            <p>
+                <lessstrong>Grad2024: Ahmad and Vipul</lessstrong>
+            </p>
+            <img src="themes/img/gallary/grad2024.jpeg" width="50%">
+            <p>
+                <lessstrong>Grad2024: Ahmad and Vipul</lessstrong>
+            </p>
+            <img src="themes/img/gallary/CSME2024.jpg" width="50%">
+            <p>
+                <lessstrong>CSME Congress 2024 at Toronto: Vahid, Mohammad, Sheng, and Enshen</lessstrong>
+            </p>
+            <img src="themes/img/gallary/grad2023_1.jpg" width="50%">
+            <p>
+                <lessstrong>Grad2023: Akash</lessstrong>
+            </p>
+            <img src="themes/img/gallary/CSME2023.jpg" width="50%">
+            <p>
+                <lessstrong>CSME Congress 2023 at Sherbrooke: Carter, Ahmad, and Sheng</lessstrong>
+            </p>
+            <img src="themes/img/gallary/grad2022.jpg" width="50%">
+            <p>
+                <lessstrong>Grad2022: Pinkesh and Purvatya</lessstrong>
+            </p>
+            <img src="themes/img/gallary/diimlab2022s.jpg" width="50%">
+            <p>
+                <lessstrong>DIIM Lab 2022 summer at Arboretum</lessstrong>
+            </p>
+        </div>-->
 
-					<div class="news-pictures-list">
-						 <img   src="themes/img/logos/formatted/diim-logo3.jpg">
-					</div>
-				</div>
-				<div class="news-pictures">
-					<div class="news-pictures-list">
-						<img   src="themes/img/logos/formatted/diim-logo4.jpg">
-					</div>
-					<div class="news-pictures-list">
-						 <img   src="themes/img/logos/formatted/diim-logo5.jpg">
-					</div>
-					<div class="news-pictures-list">
-						 <img   src="themes/img/logos/formatted/diim-logo6.jpg">
-					</div>
-			     </div>
-			     -->
+    <div class="photo-container" onclick="nextPhoto()">
+        <img id="photo" src="themes/img/gallary/HIAM2025.jpg" alt="Photo">
+        <div class="caption" id="caption">HI-AM conference at Waterloo</div>
+    </div>
 
-			<div class ="research-overview-picture">
+    <script>
+    const photos = [
+      {
+        src: "themes/img/gallary/HIAM2025.jpg",
+        caption: "HI-AM conference 2025 at Waterloo"
+      },
+      {
+        src: "themes/img/gallary/CSME2025.jpg",
+        caption: "CSME conference at ETS"
+      },
+      {
+       src:"themes/img/gallary/grad2024.jpeg",
+       caption: "Convocation: Ahmed and Vipul"
+      },
+      {
+       src:"themes/img/gallary/CSME2024.jpg",
+       caption: "CSME conference at U of Toronto"
+      },
+        {
+       src:"themes/img/gallary/diimlab2023.jpg",
+       caption: "DIIM Lab gathering 2023"
+      },
+      {
+       src:"themes/img/gallary/grad2023_1.jpg",
+       caption: "Convocation:  Akash"
+      },
+            {
+       src:"themes/img/gallary/CSME2023.jpg",
+       caption: "CSME conference at U of Sherbrooke"
+      },
+        {
+       src:"themes/img/gallary/grad2022.jpg",
+       caption: "Convercation: Pinnkesh and Purvatya"
+      },
+        {
+       src:"themes/img/gallary/diimlab2022s.jpg",
+       caption: "DIIM Lab 2022 summer at Arboretum"
+      }
+    ];
 
-		         <img   src="themes/img/gallary/grad2024.jpg" width="50%">
-				<p> <lessstrong>Grad2024: Ahmad and Vipul </lessstrong> </p>
-				<img   src="themes/img/gallary/CSME2024.jpg" width="50%">
-				<p> <lessstrong>CSME Congress 2024 at Toronto: Vahid, Mohammad, Sheng, and Enshen </lessstrong> </p>
-				 <img   src="themes/img/gallary/grad2023_1.jpg" width="50%">
-				<p> <lessstrong>Grad2023: Akash </lessstrong> </p>
-		         <img   src="themes/img/gallary/CSME2023.jpg" width="50%">
-				<p> <lessstrong>CSME Congress 2023 at Sherbrooke: Carter, Ahmad, and Sheng </lessstrong> </p>
-                <img   src="themes/img/gallary/grad2022.jpg" width="50%">
-				<p> <lessstrong>Grad2022: Pinkesh and Purvatya </lessstrong> </p>
-				 <img   src="themes/img/gallary/diimlab2022s.jpg" width="50%">
-				<p> <lessstrong>DIIM Lab 2022 summer at Arboretum  </lessstrong> </p>
-			</div>
+    let index = 0;
 
-            </div>
-		</div>
+    function nextPhoto() {
+      index = (index + 1) % photos.length;
+      document.getElementById("photo").src = photos[index].src;
+      document.getElementById("caption").innerText = photos[index].caption;
+    }
+       // Reset container height temporarily (optional)
+      photo.onload = () => {
+        photo.parentElement.style.height = photo.offsetHeight + 'px';
+      };
 
-	</div>
+      photo.src = photos[index].src;
+      caption.innerText = photos[index].caption;
+
+
+    </script>
+</div>
+</div>
+
+</div>
 
 
 </body>
@@ -125,10 +353,10 @@
 
 <footer>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-	<script src="themes/js/default.js"></script>
-	<script type="text/javascript">DIIMLab.initPage('news')</script>
+    <script src="themes/js/default.js"></script>
+    <script type="text/javascript">DIIMLab.initPage('news')</script>
 
 </footer>
 
