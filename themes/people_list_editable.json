@@ -60,19 +60,20 @@
 					"description": "<lessStrong>Topic</lessStrong>: Personalized robot learning <br> <li> M.S. University of Guelph  </li> <li> B.S. Carnegie Mellon University <br>",
 					"email": "",
 					"linkedin": ""
+				},
+				{
+					"name": "Anna Mafor",
+					"type": "Engineering Systems and Computing, 2025/09 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Generalizable soilless growing media design <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Bamenda <br>",
+					"email": "amafor@uoguelph.ca",
+					"linkedin": ""
 				}
 			]
 		},
 		{
 			"group_name": "Master's Students",
 			"members": [
-				{
-					"name": "Anna Mafor",
-					"type": "Engineering Systems and Computing, 2023/09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Digital and smart farming <br> <li> B.S. University of Bamenda <br>",
-					"email": "amafor@uoguelph.ca",
-					"linkedin": ""
-				},
+
 				{
 					"name": "Da Long",
 					"type": "Mechanical Engineering, 2024/01 - <br> ",
@@ -133,7 +134,7 @@
 				{
 					"name": "Junfei Li",
 					"type": "Postdoctoral Research Fellow, 2023.09 - 2024.09<br> ",
-					"description": "<lessstrong>Current Position</lessstrong>:postdoc at U of Guelph<br><br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:Assistant Professor at Lakehead University<br><br><lessStrong>Topic</lessStrong>: Human-robot collaboration <br> <li> Ph.D. University of Guelph </li><li> B.S. Chongqing University of Posts and Telecommunications  <br>",
 					"email": "jli64@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/junfei-li-844471293/"
 				},
@@ -198,6 +199,13 @@
 		{
 			"group_name": "Alumni - Master's",
 			"members": [
+				{
+					"name": "Anna Mafor",
+					"type": "Engineering Systems and Computing, 2023/09 -2025/08 <br> ",
+					"description": "lessstrong>Current Position</lessstrong>:PhD student at U of Guelph <br><lessStrong>Topic</lessStrong>: Machine learning for soilless growing media design <br> <li> B.S. University of Bamenda <br>",
+					"email": "amafor@uoguelph.ca",
+					"linkedin": ""
+				},
 				{
 					"name": "Zezhong Yu",
 					"type": "Computer Engineering, 2025/01 -2025/04 <br> ",
