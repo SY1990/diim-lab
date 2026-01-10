@@ -19,13 +19,7 @@
 		{
 			"group_name": "Doctorate Students",
 			"members": [
-				{
-					"name": "Vahid Haseltalab",
-					"type": "PhD, Mechanical Engineering, 2021.09- <br>",
-					"description": "<lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
-					"email": "vhaselta@uoguelph.ca",
-					"linkedin": "https://www.linkedin.com/in/vhaseltalab/"
-				},
+
 				{
 					"name": "Enshen Zhu",
 					"type": "PhD, Engineering Systems and Computing, 2023/09 - <br> ",
@@ -47,13 +41,7 @@
 					"email": "psagar@uoguelph.ca",
 					"linkedin": "linkedin.com/in/pranjali-sagar-1834271a0"
 				},
-				{
-					"name": "Bhavesh Solanki",
-					"type": "PhD, Mechanical Engineering, 2025.01- <br>",
-					"description": "<lessStrong>Topic</lessStrong>: Digital twin for smart training <br> <li> M.S. Gujarat Technological University  </li> <li> B.S. Ganpat University <br>",
-					"email": "",
-					"linkedin": ""
-				},
+
 				{
 					"name": "Zichen Wang",
 					"type": "PhD, Computer Engineering, 2025.03- <br>",
@@ -75,14 +63,6 @@
 			"members": [
 
 				{
-					"name": "Da Long",
-					"type": "Mechanical Engineering, 2024/01 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Fatigue estimation for improved worker welfare <br> <li> B.S. Beihang University <br>",
-					"email": "dlong02@uoguelph.ca",
-					"linkedin": ""
-				},
-
-				{
 					"name": "Alireza Naseri",
 					"type": "Engineering System & Computing, 2024.09- <br>",
 					"description": "<lessStrong>Topic</lessStrong>: HRC for disassembly <br> <li> B.S. K.N. Toosi University of Technology <br>",
@@ -96,33 +76,21 @@
 					"description": "<lessStrong>Topic</lessStrong>: Human-robot collaboration for assembly <br>  <li> B.S. University of Guelph </li> <br>",
 					"email": "",
 					"linkedin": ""
+				},
+				{
+					"name": "Umair Asim",
+					"type": "Mechatronic Engineering, 2026/01 -",
+					"description": "<lessStrong>Topic</lessStrong>: Human-AI collaboration <li> B.S. National University of Sciences and Technology <br>",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/umairasim1326/"
 				}
 			]
 		},
 		{
 			"group_name": "Undergraduate Students",
 			"members": [
-				{
-					"name": "Sebastian Valencia",
-					"type": "Mitacs Globalink Intern, 2025/05 -, Engineering Physics",
-					"description": "<lessStrong>Topic</lessStrong>: Data-driven nozzle wear prediction for AM <li> B.S. Universidad Nacional de Colombia <br>",
-					"email": "",
-					"linkedin": "https://www.linkedin.com/in/sebasgaviriav/"
-				},
-				{
-					"name": "Timothy Khan",
-					"type": "USRA, 2025/05 -, Biomedical Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Digital Twin modeling for FDM printers <li> B.S. University of Guelph <br>",
-					"email": "tkhan12@uoguelph.ca",
-					"linkedin": ""
-				},
-				{
-					"name": "Umair Asim",
-					"type": "USRA, 2025/06 -, Software Engineering",
-					"description": "<lessStrong>Topic</lessStrong>: Human metamodels <li> B.S. National University of Sciences and Technology <br>",
-					"email": "",
-					"linkedin": "https://www.linkedin.com/in/umairasim1326/"
-				}
+
+
 
 
 
@@ -188,21 +156,36 @@
 			"group_name": "Alumni - PhD",
 			"members": [
 				{
+					"name": "Vahid Haseltalab",
+					"type": "PhD, Mechanical Engineering, 2021.09-2025.12 <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
+					"email": "vhaselta@uoguelph.ca",
+					"linkedin": "https://www.linkedin.com/in/vhaseltalab/"
+				},
+				{
 					"name": "Ahmad Naser",
 					"type": "PhD, Mechanical Engineering, 2021.06-2023.12 <br>",
 					"description": "<lessstrong>Current Position</lessstrong>: Assistant Professor at University of Manitoba <br><lessStrong>Topic</lessStrong>: product-process co-design for elevated performance <br> <li> M.S. American University of Sharjah  </li> <li> B.S. American University of Sharjah <br>",
 					"email": "anaser@uoguelph.ca",
 					"linkedin": ""
 				}
+
 			]
 		},
 		{
 			"group_name": "Alumni - Master's",
 			"members": [
+								{
+					"name": "Da Long",
+					"type": "Mechanical Engineering, 2024/01 -2025.12 <br> ",
+					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: Fatigue estimation for improved worker welfare <br> <li> B.S. Beihang University <br>",
+					"email": "dlong02@uoguelph.ca",
+					"linkedin": ""
+				},
 				{
 					"name": "Anna Mafor",
 					"type": "Engineering Systems and Computing, 2023/09 -2025/08 <br> ",
-					"description": "lessstrong>Current Position</lessstrong>:PhD student at U of Guelph <br><lessStrong>Topic</lessStrong>: Machine learning for soilless growing media design <br> <li> B.S. University of Bamenda <br>",
+					"description": "<lessstrong>Current Position</lessstrong>:PhD student at U of Guelph <br><lessStrong>Topic</lessStrong>: Machine learning for soilless growing media design <br> <li> B.S. University of Bamenda <br>",
 					"email": "amafor@uoguelph.ca",
 					"linkedin": ""
 				},
@@ -331,6 +314,27 @@
 		{
 			"group_name": "Alumni - Undergrad",
 			"members": [
+				{
+					"name": "Sebastian Valencia",
+					"type": "Mitacs Globalink Intern, 2025/05 -2025/08, Engineering Physics",
+					"description": "<lessStrong>Topic</lessStrong>: Data-driven nozzle wear prediction for AM <li> B.S. Universidad Nacional de Colombia <br>",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/sebasgaviriav/"
+				},
+				{
+					"name": "Timothy Khan",
+					"type": "USRA, 2025/05 -2025/12, Biomedical Engineering",
+					"description": "<lessStrong>Topic</lessStrong>: Digital Twin modeling for FDM printers <li> B.S. University of Guelph <br>",
+					"email": "tkhan12@uoguelph.ca",
+					"linkedin": ""
+				},
+				{
+					"name": "Umair Asim",
+					"type": "Mitacs Globalink Intern, 2025/06 -2025/08",
+					"description": "<lessStrong>Topic</lessStrong>: Human metamodels <li> B.S. National University of Sciences and Technology <br>",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/umairasim1326/"
+				},
 				{
 					"name": "Jasmun Banwait",
 					"type": "URA, 2024/05 -2025.04, Biomedical Engineering",
