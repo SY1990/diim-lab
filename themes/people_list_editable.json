@@ -10,9 +10,13 @@
 		{
 			"group_name": "Research Staff",
 			"members": [
-
-
-
+				{
+					"name": "Mohammadreza Zare",
+					"type": "Research Assistant, 2026/01 - <br> ",
+					"description": "<lessStrong>Topic</lessStrong>: Soilless growing media knowledge representation and learning <br> <li> B.S. University of Tehran </li>  <br>",
+					"email": "zare@uoguelph.ca",
+					"linkedin": ""
+				}
 			]
 		},
 
@@ -47,13 +51,6 @@
 					"type": "PhD, Computer Engineering, 2025.03- <br>",
 					"description": "<lessStrong>Topic</lessStrong>: Personalized robot learning <br> <li> M.S. University of Guelph  </li> <li> B.S. Carnegie Mellon University <br>",
 					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Anna Mafor",
-					"type": "Engineering Systems and Computing, 2025/09 - <br> ",
-					"description": "<lessStrong>Topic</lessStrong>: Generalizable soilless growing media design <br> <li> M.S. University of Guelph  </li> <li> B.S. University of Bamenda <br>",
-					"email": "amafor@uoguelph.ca",
 					"linkedin": ""
 				}
 			]
@@ -158,7 +155,7 @@
 				{
 					"name": "Vahid Haseltalab",
 					"type": "PhD, Mechanical Engineering, 2021.09-2025.12 <br>",
-					"description": "<lessstrong>Current Position</lessstrong>: <br><lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
+					"description": "<lessstrong>Current Position</lessstrong>: Postdoc at Toronto Metropolitan University <br><lessStrong>Topic</lessStrong>: design and fabrication of porous structures <br> <li> M.S. Middle East Technical University  </li> <li> B.S. Mashhad Technical University <br>",
 					"email": "vhaselta@uoguelph.ca",
 					"linkedin": "https://www.linkedin.com/in/vhaseltalab/"
 				},

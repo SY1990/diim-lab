@@ -137,13 +137,34 @@ lessStrong {
 
 	}
 
+
 	#content .profile-picture {
 	    width: 50vw !important;
 		height: 50vw !important;
 	}
+	#content .profile-description {
+	     list-style-position: inside;
+	}
+	.profile-description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    }
+
+    .profile-description ul{
+    padding-left: 22px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+     }
+
+   .profile-description li{
+    margin-bottom: 4px;
+    line-height: 1.5;
+    }
 
 	#content .profile-text {
 		padding: 10px 0 0 !important;
+
 	}
 
 	#content .content-section h1 {
