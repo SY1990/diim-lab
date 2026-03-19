@@ -143,7 +143,8 @@ lessStrong {
 		height: 50vw !important;
 	}
 	#content .profile-description {
-	     list-style-position: inside;
+	     list-style-position: outside;
+	     padding-left: 22px;
 	}
 	.profile-description {
     font-size: 16px;
@@ -152,12 +153,13 @@ lessStrong {
     }
 
     .profile-description ul{
-    padding-left: 22px;
+    padding-left: 0;
     margin-top: 6px;
     margin-bottom: 10px;
      }
 
    .profile-description li{
+    list-style-position: outside;
     margin-bottom: 4px;
     line-height: 1.5;
     }
@@ -951,6 +953,8 @@ lessStrong {
 	line-height:1.25;
 }
 #content .profile-description {
+	list-style-position: outside;
+	padding-left: 22px;
 	line-height:1.5;
 }
 
